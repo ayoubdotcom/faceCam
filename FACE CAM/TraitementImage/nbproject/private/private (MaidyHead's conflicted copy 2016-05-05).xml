@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/mahdi/Dropbox/TraitementImage/Recherche/TraitementImage/src/view/BackgroudedPanel.java</file>
+            <file>file:/C:/Users/mahdi/Dropbox/TraitementImage/Recherche/TraitementImage/src/TipoRegistro.properties</file>
+            <file>file:/C:/Users/mahdi/Dropbox/TraitementImage/Recherche/TraitementImage/src/detection/CvUtils.java</file>
+            <file>file:/C:/Users/mahdi/Dropbox/TraitementImage/Recherche/TraitementImage/src/model/Banco.java</file>
+            <file>file:/C:/Users/mahdi/Dropbox/TraitementImage/Recherche/TraitementImage/src/controller/WebCamController.java</file>
+            <file>file:/C:/Users/mahdi/Dropbox/TraitementImage/Recherche/TraitementImage/src/view/ListagemFuncionario.java</file>
+            <file>file:/C:/Users/mahdi/Dropbox/TraitementImage/Recherche/TraitementImage/src/Database.properties</file>
+            <file>file:/C:/Users/mahdi/Dropbox/TraitementImage/Recherche/TraitementImage/src/recog/FaceRecognizer.java</file>
+            <file>file:/C:/Users/mahdi/Dropbox/TraitementImage/Recherche/TraitementImage/src/model/EntityManager.java</file>
+            <file>file:/C:/Users/mahdi/Dropbox/TraitementImage/Recherche/TraitementImage/src/detection/FaceDetection.java</file>
+            <file>file:/C:/Users/mahdi/Dropbox/TraitementImage/Recherche/TraitementImage/src/entity/Funcionario.java</file>
+            <file>file:/C:/Users/mahdi/Dropbox/TraitementImage/Recherche/TraitementImage/src/model/CaptionUtils.java</file>
+            <file>file:/C:/Users/mahdi/Dropbox/TraitementImage/Recherche/TraitementImage/src/detection/MainClass.java</file>
+            <file>file:/C:/Users/mahdi/Dropbox/TraitementImage/Recherche/TraitementImage/src/view/ListagemRegistros.java</file>
+            <file>file:/C:/Users/mahdi/Dropbox/TraitementImage/Recherche/TraitementImage/src/test/TesteMain.java</file>
+            <file>file:/C:/Users/mahdi/Dropbox/TraitementImage/Recherche/TraitementImage/src/model/WebSocketCliente.java</file>
+            <file>file:/C:/Users/mahdi/Dropbox/TraitementImage/Recherche/TraitementImage/src/entity/Foto.java</file>
+            <file>file:/C:/Users/mahdi/Dropbox/TraitementImage/Recherche/TraitementImage/src/view/Recognizerold.java</file>
+            <file>file:/C:/Users/mahdi/Dropbox/TraitementImage/Recherche/TraitementImage/src/dao/FotoDAO.java</file>
+            <file>file:/C:/Users/mahdi/Dropbox/TraitementImage/Recherche/TraitementImage/src/view/IconUtils.java</file>
+            <file>file:/C:/Users/mahdi/Dropbox/TraitementImage/Recherche/TraitementImage/src/view/Comprovante.java</file>
+            <file>file:/C:/Users/mahdi/Dropbox/TraitementImage/Recherche/TraitementImage/src/detection/HaarClassifierCascades.java</file>
+            <file>file:/C:/Users/mahdi/Dropbox/TraitementImage/Recherche/TraitementImage/src/controller/RegistroController.java</file>
+            <file>file:/C:/Users/mahdi/Dropbox/TraitementImage/Recherche/TraitementImage/src/controller/FuncionarioController.java</file>
+            <file>file:/C:/Users/mahdi/Dropbox/TraitementImage/Recherche/TraitementImage/src/detection/Main.java</file>
+            <file>file:/C:/Users/mahdi/Dropbox/TraitementImage/Recherche/TraitementImage/src/view/EditaFuncionario.java</file>
+            <file>file:/C:/Users/mahdi/Dropbox/TraitementImage/Recherche/TraitementImage/src/model/IEntityManager.java</file>
+            <file>file:/C:/Users/mahdi/Dropbox/TraitementImage/Recherche/TraitementImage/src/dao/HorarioDAO.java</file>
+            <file>file:/C:/Users/mahdi/Dropbox/TraitementImage/Recherche/TraitementImage/src/dao/RegistroDAO.java</file>
+            <file>file:/C:/Users/mahdi/Dropbox/TraitementImage/Recherche/TraitementImage/src/recog/IRecognizer.java</file>
+            <file>file:/C:/Users/mahdi/Dropbox/TraitementImage/Recherche/TraitementImage/src/recog/Test2.java</file>
+            <file>file:/C:/Users/mahdi/Dropbox/TraitementImage/Recherche/TraitementImage/src/Language_en_US.properties</file>
+            <file>file:/C:/Users/mahdi/Dropbox/TraitementImage/Recherche/TraitementImage/src/derby.txt</file>
+            <file>file:/C:/Users/mahdi/Dropbox/TraitementImage/Recherche/TraitementImage/src/controller/RecognizerController.java</file>
+            <file>file:/C:/Users/mahdi/Dropbox/TraitementImage/Recherche/TraitementImage/src/view/CadastraFuncionario.java</file>
+            <file>file:/C:/Users/mahdi/Dropbox/TraitementImage/Recherche/TraitementImage/src/Database_MySql.properties</file>
+            <file>file:/C:/Users/mahdi/Dropbox/TraitementImage/Recherche/TraitementImage/src/dao/GenericDAO.java</file>
+            <file>file:/C:/Users/mahdi/Dropbox/TraitementImage/Recherche/TraitementImage/src/dao/FuncionarioDAO.java</file>
+            <file>file:/C:/Users/mahdi/Dropbox/TraitementImage/Recherche/TraitementImage/src/view/Recognizer.java</file>
+            <file>file:/C:/Users/mahdi/Dropbox/TraitementImage/Recherche/TraitementImage/src/entity/Horario.java</file>
+            <file>file:/C:/Users/mahdi/Dropbox/TraitementImage/Recherche/TraitementImage/src/entity/Registro.java</file>
+        </group>
+    </open-files>
+</project-private>
